@@ -504,17 +504,17 @@ input[type=email], input[type="number"] {
     color: #555555;
 }
 
-.custom-btn-primary2{
+.btn-primary{
     color: #000;
     background-color: #F8AD47;
     border-color: #F8AD47;
 }
 
-.custom-btn-primary2:hover,
-.custom-btn-primary2:active,
-.custom-btn-primary2:focus,
-.custom-btn-primary2:active:focus,
-.custom-btn-primary2:active:hover{
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus,
+.btn-primary:active:hover{
     background-color: #b86d07;
     border-color: #b86d07;
     color: #000;
